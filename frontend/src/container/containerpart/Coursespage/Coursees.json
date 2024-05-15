@@ -1,0 +1,71 @@
+[
+    {
+        "id":1,
+        "img":" ",
+        "title":" Bridge Course",
+        "Discription":{
+        "d1":"+  RC Circuits, Network Analysis",
+        "d2":"+ Microelectronic Basics, Device Physics.",
+        "d3":"+ MOS Basics, Fabrication, Diodes, BJT",
+        "d4":"+ Advance Topics (Finfets, Double Patterning)",
+        "d5":"+ Tool trainings, schematics, simulations.",
+        "d6":"+ Stick diagrams, Layout design, LVS, DRC QA: EM, IR, Antenna, Density, ERC, Latchup,.",
+        "d7":"+ Shielding, Matching, Sheer Resistance, LoD, WPE, DFM.",
+        "d8":"+ PVT Corners, Hierarchical and Flat Layouts",
+        "d9":"+ Logic Design Basics."
+        
+    }
+        
+    },
+    {
+        "id":2,
+        "img":" ",
+        "title":"Standard Cell Layout Design",
+        "Discription":{
+        "d1":"+ ASIC Design Flow",
+        "d2":"+ Role of standard cell libraries in IC design .",
+        "d3":"+ Introduction to Standard Cell Architecture.",
+        "d4":"+ Introduction to concepts: Grids, Hit-points, Half-DRC, PnR, Fanout, Drive Strength, Tapless Library Circuit and Layout of Std. Cell Library (Inv, Nand, Nor, Flops, Latches, Delay cells, Fillers).",
+        "d5":"+ Floorplanning, Power planning, LVS, DRC Introduction to Standard Cell Characterization (timing, setup/hold, power, leakage), Files (LEF/DEF, GDS, CDL, Liberty).",
+        "d6":"+ Hands-on projects involving standard cell layout: ALU Assignments, Tests, Presentations."
+    }
+        
+    },
+    {
+        "id":3,
+        "img":" ",
+        "title":"Analog Layout Design",
+        "Discription":{
+        "d1":"+ Analog Design Flow",
+        "d2":"+ Analog v/s Digital Layouts",
+        "d3":"+ Concepts of Matching, Guardring, Shielding Circuit and Layout Design of Resistors, Capacitors, Current Mirrors, Opamp",
+        "d4":"+ Circuit and layout Design of ADC/DAC/PLL",
+        "d5":"+ Assignments, Test, Presentations"}
+        
+    },
+    {
+        "id":4,
+        "img":" ",
+        "title":" Memory Layout Design",
+        "Discription":{
+        "d1":"+ Introduction to Memory Architecture and Hierarchy. Importance of Embedded Memories in SoCs.",
+        "d2":"+ 6T SRAM Cell Structure, Read Write Operations, SNM, RNM and other Stability Analysis.",
+        "d3":"+ Array Design, Bitcell Transistor Sizing, Corner and Edge Cells",
+        "d4":"+ Circuit and Layout Design of IO: Column Mux, Precharge, Sense Amplifier, Latches, Drivers Circuit and Layout Design of Rowdrivers: Predecs and Final Drivers, Programming Techniques for Decoding.",
+        "d5":"+ Control Block Design and Layout Full Instance Circuit Simulation for Functionality, Layout Design, LVS and DRC.",
+        "d6":"+ Introduction to Memory Compilers",
+        "d7":"+ Assignments, Test, Presentations."}
+        
+    },
+    {
+        "id":5,
+        "img":" ",
+        "title":" Placement Assistance & Course Highlights",
+        "Discription":{
+        "d1":"+ Resume Preparation, Review and Mock Interviews",
+        "d2":"+ Group Discussions, Presentations.",
+        "d3":"+ Sourcing Resume Across VLSI Companies",
+        "d4":"+ Course and Internship Certification",
+        "d5":"+ Placement assistance till the candidate is placed"}
+    }
+]

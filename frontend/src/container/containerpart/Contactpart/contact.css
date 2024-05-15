@@ -1,0 +1,145 @@
+
+.faq{
+    background-color: #101820;
+    padding-bottom: 20px;
+}
+.faq1{
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  margin: auto;
+  flex-wrap:wrap;
+ 
+  align-items: center;
+  
+}
+.accordion1::-webkit-scrollbar{
+  width: 10px;
+}
+.accordion1::-webkit-scrollbar-thumb{
+  background-color: #101820;
+  border-radius: 12px ;
+  
+}
+
+.accordion1{
+  height: 700px;
+  overflow: hidden;
+  overflow-y: scroll;
+  padding: 12px;
+      padding-top: 10px;
+}
+
+.accordion{
+    margin: 15px auto;
+    width: 600px;
+    
+}
+
+.accordion li{
+    list-style: none;
+    width: 100%;
+   
+    border-radius: 8px;
+    background: white;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0, 0.15),
+                -6px -6px 10px -1px rgba(0,0,0, 0.15);  
+
+
+}
+.accordion li label{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.section1 label::before{
+    content: '+';
+    margin-right: 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+input[type="radio"]{
+    display: none;
+}
+.accordion .content{
+    color: #555;
+    padding:  0 10px;
+    line-height: 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s, padding 0.5s;
+}
+.accordion input[type="radio"]:checked + label + .content{
+    max-height: 400px;
+    padding: 10px 10px 20px;
+}
+.accordion input[type="radio"]:checked + label::before{
+    content: '-';
+}
+
+.faq .title{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 500;
+    
+    padding-top: 12px;
+    color: #FEE715;
+    margin-bottom: 12px;
+}
+
+
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    padding: 20px;
+   
+    border-radius: 4px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 12px 0px black;
+  }
+  
+  h2 {
+    margin-bottom: 15px;
+  }
+  
+  .section2 label {
+    margin-bottom: 5px;
+    display: block;
+    color: white;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    width: 420px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  input[type="submit"] {
+    background-color: #FEE715;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .section2{
+    padding-top: 120px;
+    padding-left: 20px;
+  }

@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "img":"https://schwartzandsons.com/wp-content/uploads/2021/07/Chalkboard-Paint-for-Rooms.png",
+        "title":" Standard Cell Library Development",
+        "Discription":{
+        "d1":"+ Design a comprehensive standard cell library (300 cells with different VT and drive strengths) containing a variety of logic gates and essential functional blocks for digital circuit design",
+        "d2":"+ Create high-quality layout designs for each standard cell, adhering to the foundry’s design rules and guidelines. Create an accurate library with multiple cell variants to support critical parameters like area, delay, power, and noise.",
+        "d3":"+ Perform layout verification using Design Rule Check (DRC) and Layout vs. Schematic (LVS) tools to ensure the cells meet the manufacturing requirements.",
+        "d4":"+ Implement robust power and ground distribution networks to ensure reliable power delivery to all cells. Strategically develop power and ground distribution networks to enable efficient and reliable power delivery across the library.",
+        "d5":"+ Integrate low-power variants of standard cells to provide support for power-sensitive applications, contributing to enhanced power efficiency.",
+        "d6":"+ Produce comprehensive documentation detailing the design process, layout guidelines, and cell specifications for easy understanding and future use.",
+        "d7":"+ Effectively present the project’s outcomes to peers and collaborate with team members to achieve project objectives efficiently."
+        }
+       
+
+    },
+    {
+        "id":2,
+        "img":" https://schwartzandsons.com/wp-content/uploads/2021/07/Chalkboard-Paint-for-Rooms.png",
+        "title":"ALU Design Using Standard Cell Library",
+        "Discription":{
+        "d1":"+ Design a fully functional Arithmetic Logic Unit (ALU) capable of performing various arithmetic and logical operations.",
+        "d2":"+ Define the ALU’s supported operations, such as addition, subtraction, multiplication, AND, OR, XOR, shift, and compare.",
+        "d3":"+ Determine the ALU architecture, including the number of input and output ports, bit-width, and the internal organization of the ALU.",
+        "d4":"+ Choose an appropriate standard cell layout library with cells that meet the required performance and power specifications.",
+        "d5":"+ Create a detailed design specification, outlining the ALU’s behavior, functionality, and interfaces.",
+        "d6":"+ Map the logic functions of the ALU to the selected standard cell library, selecting appropriate cells for each operation.",
+        "d7":"+ Develop the layout for each ALU component, ensuring adherence to design rules and guidelines of the standard cell library.",
+        "d8":"+ Integrate individual ALU components into a complete ALU design, ensuring proper connectivity and signal flow.",
+        "d9":"+ Perform DRC and LVS checks on the ALU layout to ensure its correctness and compliance with the foundry’s rules.",
+        "d10":"+ Verify the ALU’s functionality by simulating various test cases and comparing the results against expected outputs.",
+        "d11":"+ Estimate the area occupied by the ALU in terms of the number of standard cells used."
+    }
+
+    },
+    {
+        "id":3,
+        "img":"https://schwartzandsons.com/wp-content/uploads/2021/07/Chalkboard-Paint-for-Rooms.png",
+        "title":"Opamp Design",
+        "Discription":{
+        "d1":"+ Implement the schematic and layout of the op-amp, which consist of PMOS and NMOS current mirrors, NMOS differential pairs, and an inverter amplifier at the output stage.",
+        "d2":"+ Implement current mirror layouts using the inter-Digitization Matching technique.",
+        "d3":"+ Implement current mirror layouts using the inter-Digitization Matching technique.",
+        "d4":"+ Use dummy devices to ensure that each device in the matching pattern has the same geometry when etched in silicon, and use a guard ring to avoid latch-up.",
+        "d5":"+ Design layouts in layout XL by generating the instances from the schematic.",
+        "d6":"+ Place vias wherever required to obtain a better yield, and use wider metals for global nets.",
+        "d7":"+ Plan an efficient floorplan, execute appropriate routing, and hence optimize the area greatly."
+    }
+
+    },
+    {
+        "id":4,
+        "img":"https://schwartzandsons.com/wp-content/uploads/2021/07/Chalkboard-Paint-for-Rooms.png ",
+        "title":" Bandgap Reference Circuit (BGR)",
+        "Discription":{
+        "d1":"+ A bandgap voltage reference is a temperature-independent voltage reference circuit widely used in integrated circuits. It produces a fixed voltage regardless of power supply variations or temperature changes.",
+        "d2":"+ Design, simulate, and analyse PTAT and CTAT circuits individually, and then integrate them to design a BGR",
+        "d3":"+ Implement a cascode current mirror for better CTAT control.",
+        "d4":"+ A bell curve of 1.3 mV can be observed for a constant output voltage of 2.3 volts.",
+        "d5":"+ Protect the resistor bank with a guard ring since resisters are high-noise devices."}
+    },
+    {
+        "id":5,
+        "img":" https://schwartzandsons.com/wp-content/uploads/2021/07/Chalkboard-Paint-for-Rooms.png",
+        "title":"Phase Locked Loop (PLL)",
+        "Discription":{
+        "d1":"+ The Phase-locked loop (PLL) is used to generate stable and accurate frequencies and also stable signals.",
+        "d2":"+ Blocks that make up this PLL are the phase frequency detector (PFD), Charge Pump (CP), loop filter, ring oscillator, and frequency divider.",
+        "d3":"+ Implement a simple DFF+AND-based PFD for minimum complexity and minimum power consumption. Two TSPC (True Single-Phase Clocking) D-FF are used, and a symmetric NAND along with a NOT gate is used as feedback.",
+        "d4":"+ The three states of the PFD are used to regulate a charge pump, which is an electronic switch with three positions. The switch sends a current to the loop filter as a control signal.",
+        "d5":"+ A loop filter converts the pulsating DC output of the CP to a smooth control voltage that can be fed to the oscillator.",
+        "d6":"+ A frequency divider divides the input frequency by N based on the number of stages..",
+        "d7":"+ Implement a 5-stage frequency divider.",
+        "d8":"+ PLL has a 700ns lock time and a 5MHz bandwidth.",
+        "d9":"+ Use matching techniques like Inter-Digitization and common centroid for Current mirrors and differential pairs of CP.",
+        "d10":"+ Optimize the floorplan by matching the heights of blocks and devices."}
+
+    },
+    {
+        "id":6,
+        "img":"https://schwartzandsons.com/wp-content/uploads/2021/07/Chalkboard-Paint-for-Rooms.png",
+        "title":" 4-Bit Flash Analog to Digital Converter (ADC)",
+        "Discription":{
+        "d1":"+ Flash ADC, also known as parallel ADC, is a type of Analog-to-Digital Converter (ADC) that uses a bank of comparators to directly convert an analogue input voltage into a digital output.",
+        "d2":"+ The flash ADC is known to be the fastest ADC.",
+        "d3":"+ The designed ADC consists of A resistor bank, comparator opamp, thermometer encoder made of transmission gate-based multiplexers, and a buffer stage.",
+        "d4":"+ Flash ADCs use a resistor bank consisting of 2N resistors to achieve N-bit resolution.",
+        "d5":"+ If the positive input of the comparator is at a greater potential than the negative input, the output of the comparator is a logic 1, whereas if the + input is at a lower potential than the – input, The output of the comparator is at a logic A typical Flash ADC uses 2N – 1..",
+        "d6":"+ This ADC can operate at a 20 MHz frequency",
+        "d7":"+ A buffer stage is added at the output of the encoder to get a proper voltage swing..",
+        "d8":"+ Resistors routing is done by matching each and every node’s connection. Matching net connections for critical signals.",
+        "d9":"+ Tapping of vias to power nets is done periodically for all the subblocks in the top level in order to ensure proper power distribution and signal integrity."}
+    },
+    {
+        "id":7,
+        "img":"https://schwartzandsons.com/wp-content/uploads/2021/07/Chalkboard-Paint-for-Rooms.png",
+        "title":"Custom SRAM Instance",
+        "Discription":{
+        "d1":"+ Design a single-port 6T SRAM (HD) Bit-Cell.",
+        "d2":"+ Understand the workings of a Bit-cell (read/Write operation) and the structure of the memory architecture.",
+        "d3":"+ Characterization of 6T-SRAM (Single-port) bit cells by varying Temperature and Supply voltage",
+        "d4":"+ Schematic and Layout Design of Peripheral Circuits: 32×32 Bit-Cell Array, Row Decoder, Column IO, and Control Block",
+        "d5":"+ A precharge mux, latch-based Sense amplifier, and I/O latch are designed.",
+        "d6":"+ Designed a control block with very strict time constraints to enable proper functionality",
+        "d7":"+ Functional Verification of successful read and write operations",
+        "d8":"+ Bit-Cell Layout using the Half-Cell Approach",
+        "d9":"+ Design edge cells to avoid abrupt endings in the bit-Cell array.",
+        "d10":"+ The layout of the Row Decoder is designed by considering the height of 4-Bit Cells.",
+        "d11":"+ The Sense Amplifier layout is designed with analogue layout concepts such as common centroid symmetry and a guard ring to prevent latch-up.",
+        "d12":"+ Design Control Block layouts using Standard Cells."
+    }
+
+    }
+]

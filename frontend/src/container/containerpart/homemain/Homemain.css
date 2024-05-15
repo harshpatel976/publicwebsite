@@ -1,0 +1,62 @@
+.homehero{
+    background-color:#101820;  
+     height: 100%;
+    color: white;
+    height: 360px;
+    padding-top: 20px;
+
+}
+.homeherosec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+
+}
+
+.homeherosec1{
+   
+}
+.buttonhome{
+    height: 50px;
+    width: 100%;
+    background-color: #FEE715;
+    color: black;
+    font-weight: 700;
+    border-radius: 12px;
+    border: transparent;
+    margin-top:15px ;
+
+}
+.buttonmain1{
+    width: 30%;
+}
+.buttonmain2{
+    width: 50%;
+    margin-left: 30px;
+}
+.homeherosec1 h2{
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 12px;
+    
+}
+.homeherosec1 h1{
+    font-size:30px ;
+    font-weight: 600;
+    color: #FEE715;
+    margin-top: 0px; 
+    margin-left: 0px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+.homeherosec1 h3{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 12px;
+}
+
+.homees{
+    width: 500px;
+}

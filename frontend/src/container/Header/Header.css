@@ -1,0 +1,105 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    padding: 10px 20px;
+    background-color: #101820;
+   
+  
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+  }
+  
+    .navbar-left {
+   
+    height: 60px;
+    margin-right: 10px;
+    animation: fade-down 1s;
+
+     /* Adjust spacing between logo and links */
+  }
+  .logo{
+    height: 45px;
+    width: 100%;
+  }
+  
+  .navbar-right ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    animation: fade-down 1s;
+  }
+  
+  .navbar-right ul li {
+    margin-right: 25px; /* Adjust spacing between links */
+  }
+  
+  .navbar-right ul li:last-child {
+    margin-right: 0; /* Remove margin from last link */
+  }
+  
+  .navbar-right ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+    font-size: 17px;
+    color: white;
+  }
+  
+  .navbar-right ul li a:hover {
+    color: #FEE715; /* Change color on hover */
+  }
+  .navbar-right ul li a.active{
+    color: #FEE715
+  }
+
+  .demo-button-class{
+    height: 45px;
+    width: 170px;
+    background-color: #FEE715;
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+    border-color: transparent;
+    border-radius: 12px;
+
+  }
+  .demo-button-class:hover{
+    background-color: white;
+  }
+  
+  @keyframes fade-down{
+    0%{
+        opacity: 0;
+        transform: translateY(30px) scale(0.9);
+        
+           
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px) scale(1);
+    }
+}
+
+@media screen and (max-width: 1250px) {
+
+  .navbar-right ul li a{
+    font-size:14px;
+  }
+  .demo-button-class{
+    height: 40px;
+    width: 150px;
+    background-color: #FEE715;
+    color: black;
+    font-weight: 500;
+    font-size: 12px;
+    border-color: transparent;
+    border-radius: 10px;
+
+  }
+}

@@ -1,0 +1,119 @@
+[
+    {
+        "id":1,
+        "que":" What is the minimum aggregate criterion? Is it mandatory?",
+        "ans":"Most of the companies ask for a minimum of 60% aggregate from SSLC/10th. We don’t have much say in a company’s shortlisting criteria. Still, there are instances of students with lower marks getting placed. It depends on several factors, like the candidate’s skills, interview performance and overall industry requirements."
+
+    },
+    {
+        "id":2,
+        "que":"What is the eligibility to enroll for this course?",
+        "ans":"Students who have completed or pursuing B.E. or M.Tech. in ECE, EEE, or VLSI related streams. Working professionals from the VLSI domain. Working professionals in the non-VLSI domain who have completed education (in ECE or related domains) not more than 3 years ago. Personalized one-on-one guidance will be organized for working professionals."
+
+    },
+    {
+        "id":3,
+        "que":"Do you have PD courses?",
+        "ans":"We only have Circuit, Layout and Characterization courses."
+
+    },
+    {
+        "id":4,
+        "que":" Do you have offline courses?",
+        "ans":"We only have online classes. We ensure our online classes are much more effective than offline classes."
+
+    },
+    {
+        "que":"Are the classes recorded? Do we get any study material?",
+        "ans":"We only conduct live classes to encourage interaction with the mentors on a regular basis. However, there will always be revision classes on a need basis. We do share the class notes and study materials in the form of PowerPoints, links and videos."
+
+    },
+    {
+        "que":" Who are the mentors?",
+        "ans":"All our mentors are working semiconductor professionals who bring a lot of industry experience with them to this mentorship program. We encourage you to interact as freely as possible to get the maximum benefit from them. We also expect you to be highly professional in your conduct and communication throughout the course."
+
+    },
+    {
+        "que":" Are we allowed to continue with the next batch if not placed?",
+        "ans":"We encourage our students to repeat the module with next batches if not placed yet. We also expect more contribution in terms of mentoring the junior batches, maintaining regular attendance and timely submission of assignments."
+
+    },
+    {
+        "que":" Which module should I choose?",
+        "ans":"All the three modules have equal importance in the industry. However the job openings are always driven by the industry demands. Hence we suggest the individuals to opt for more modules to maximize the placement opportunities."
+
+    },
+    {
+        "que":"What are the class timings?",
+        "ans":"Live theory classes by mentors will be between 7 p.m to 9 p.m or regular basis. For passed out students, timings for theory assignment and labs will be from 9 a.m to 5 p.m. We provide ample assignments to passed out students to keep them engaged and become interview-ready at the earliest. College pursuing students will have some flexibility in assignment deadlines due to their college commitments. They receive more assignments during vacations to catch up with their peers."
+
+    },
+    {
+        "que":"I am planning to join in my 5th sem. Is it recommended?",
+        "ans":"Enrolling in the course during your final or pre-final year of B.E/MTech can offer significant advantages. You’ll have at least a year to complete the course and repeat the modules until you get placed. You align your final semester projects, papers, and internships with a focus on VLSI, boosting your chances for VLSI job applications and setting you apart from your classmates. By joining early, you can avoid spending an additional six months on these courses after graduation. In fact, you might even land internships with companies during your final year, gaining both experience and a stipend. This gives you a competitive edge in terms of practical knowledge. Many students choose to join in the fifth semester due to the online nature of the course, allowing them to make the most of the two-year period by repeating the modules until they secure placements."
+
+    },
+    {
+        "que":"How does joining this course benefit me?",
+        "ans":"If your passion lies in VLSI and you’re in search of the finest institution with passionate mentors, look no further than us. Our mentors have decades of hands-on experience in silicon design, making our platform the exclusive opportunity for regular interactions with these VLSI professionals. Unlike commercial enterprises, our driving force behind this program is unwavering passion."
+
+    },
+    {
+        "que":" How do we get to interact with the mentors?",
+        "ans":"Every one of our mentors is from the semiconductor industry, with extensive expertise spanning decades in analog, digital, and memory circuit and layout design. Their mentoring approach treats all participants as professionals. In live sessions, you have the freedom to engage with them openly, and they will also join the batch’s WhatsApp group. Whether you wish to post questions to the group, message them individually, or even call for discussions, they are always eager and ready to provide responsive assistance."
+
+    },
+    {
+        "que":" Do I need specific system configuration to join this course?",
+        "ans":"You will need a minimum of i5 process, 16gb ram, 250gb equivalent or above configuration."
+
+    },
+    {
+        "que":"How do you guarantee that the online course it effective?",
+        "ans":"Our mentors hold a strong emphasis on several key aspects: attendance, timely assignment submission, and active participation during classes. They ensure interactive learning environment. Participation in discussions is encouraged from all attendees. For students with no college activities, daily assignments submission is mandatory. The mentors expect strong commitment to this routine. Deviation from these expectations may lead to discontinuation from the course, except under circumstances like personal or medical emergencies, provided prior notice is given."
+
+    },
+    {
+        "que":"Why do you make the fellow/senior students take some classes?",
+        "ans":"In each batch, we encourage fellow or senior students to take some classes. This builds their communication skills and boosts confidence, which is valuable for interviews. For other students attending these classes, it encourages open interaction and query resolution. If any doubts persist after these discussions, students are can seek mentor clarification."
+
+    },
+    {
+        "que":"Is it necessary to attend regularly and submit assignments on time?",
+        "ans":"Yes, it is. Unless there’s a medical or personal emergency, and you inform us in advance. For students pursuing college, we provide time off for internal/external labs, theory exams, and other college events. We understand their college commitments come first. We make up for missed content during their semester breaks."
+
+    },
+    {
+        "que":" Is placement guaranteed?",
+        "ans":"We want to be clear that we cannot promise job placements to our students. Securing a job offer relies on various factors such as the needs of the job market, how well a candidate performs in interviews, and their academic achievements. However, if a candidate shows dedication, passion, and consistently completes assignments while attending classes regularly, we are committed to providing guidance until they secure a job. We put in our utmost effort to support such candidates in their job search. This is why we specifically encourage students who are passionate and patient enough to wait for the right opportunity to consider joining our courses. We believe that those who possess these qualities are more likely to benefit from our mentorship and achieve success in their careers."
+
+    },
+    {
+        "que":"How do you plan for interview preparation?",
+        "ans":"In every class, we focus on teaching topics that are relevant from the perspective of interviews. We place a strong emphasis on thoroughly understanding the fundamentals. This way, you won’t have to face difficulties in recalling important concepts. We prioritize a learning approach that feels natural and easy to grasp. As part of the learning process, we encourage students to lead classes for their fellow batchmates. This not only enhances their communication skills but also boosts their confidence levels, which is crucial for interviews and future professional interactions. To further aid in interview preparation, we offer question banks and assignments that prove to be highly beneficial. These resources are designed to help you excel in interviews and confidently demonstrate your knowledge and skills."
+
+    },
+    {
+        "que":" Where can I see the feedback about you?",
+        "ans":"We recommend that you speak with our former students before you decide to take the course. You can find them on LinkedIn. Look at the feedback they’ve left on our LinkedIn page, connect with them, and have a conversation before you enroll. They can share their experiences of overcoming challenges and how they managed to do so."
+
+    },
+    {
+        "que":" Can I meet the mentors offline??",
+        "ans":"No. If you’d like, you can have phone conversations with them. A number of our former students continue to have discussions with their mentors, even years after completing the course. They seek advice about changing jobs, switching to other domain in VLSI, promotions, and more. Receiving guidance from mentors who have experience in VLSI can lead you to wiser decisions."
+
+    },
+    {
+        "que":"Any other suggestions?",
+        "ans":"Before deciding to enroll in this course, we kindly ask that you take the time to conduct thorough research. Reach out to us, talk to our alumni, and also have conversations with your seniors and friends. We understand that your investment involves both your money and your time, so we want you to feel fully informed before joining the course. Our aim is to support passionate engineers in the field of VLSI, and we genuinely hope that once you commit, you’ll be able to stay in the course without any concerns. We’re here to guide and mentor you. Therefore, we encourage you to carefully consider all aspects before making the decision to enroll in our courses."
+    },
+    {
+        "que":"Planning to switch from Software domain to VLSI. Is there any course for me?",
+        "ans":"We offer personalized mentorship for working professionals on a case-by-case basis, tailored to individual needs and schedules. If you’re interested, please don’t hesitate to give us a call."
+    },
+    {
+        "que":"Is this course mandatory?",
+        "ans":"If you are studying in reputed colleges, where VLSI awareness is excellent and you have plenty of VLSI placements and if you are confident about excelling in the VLSI interviews on your own, then this course is not essential. You may explore many free online courses on YouTube or NPTEL."
+    }
+
+]

@@ -1,0 +1,94 @@
+.Section2{
+    
+    color: white;
+    background-color: #101820;
+    padding-top: 45px;
+    display: inline-block;
+}
+
+.sectionpart2{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    align-items: center;
+    border: 2px solid transparent;
+    box-shadow: 0px 0px 12px 0px black;
+    padding:25px ;
+    flex-wrap: wrap;
+    flex-shrink:unset;
+    align-items: center;
+   
+}
+.textsection{
+  
+    width: 50%;
+   
+    
+}
+.name1{
+    color: #FEE715;
+    font-weight: 500;
+    font-size: 75px;
+    padding: 25px;
+}
+
+.textsection p{
+    font-weight: 300;
+    padding: 12px 0 0 ;
+    word-spacing: 2px ;
+    line-height: 20px;
+    letter-spacing: 1.0px;
+
+    
+}
+@keyframes fade-down{
+    0%{
+        opacity: 0;
+        transform: translateY(30px) scale(0.9);
+        
+           
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px) scale(1);
+    }
+}
+.robotimage{
+    height: 350px;
+    width: auto;
+    margin-top: 12px;
+    animation: fade-downs 1s;
+   
+    
+}
+
+.asus{
+    padding-top:10px;
+}
+.youtubevideo{
+
+    display: flex;
+}
+.name1{
+    font-size: 30px;
+}
+
+@media screen and (max-width: 1250px){
+    .textsection p{  
+        font-size: 13px;
+        font-weight: 300;
+    padding: 12px 0 0 ;
+    word-spacing: 1.5px ;
+    line-height: 15px;
+    letter-spacing: 0.8px;
+    }
+    .youtubevideo12{
+        width: 350px;
+        height: 210px;
+    }
+    .sectionpart2{
+        width:90%
+    }
+    
+}

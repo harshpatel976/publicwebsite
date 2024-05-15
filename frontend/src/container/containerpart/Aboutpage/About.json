@@ -1,0 +1,32 @@
+
+
+
+[
+    {
+        "id":1,
+        "img":"https://vlsiresources.com/wp-content/uploads/2021/05/epitome.png",
+        "title":"EpitomeCircuits Established Since 2011",
+        "description1":"+ EpitomeCircuits priorly known as Kanada Technologies was founded in the year 2011 with the aim of transforming learning space in engineering education and create a talent pool with an ultimate workforce for careers in semiconductor industry..",
+        "description2":"+ We offer encyclopedic guidance to the engineering students into the depth and breadth of VLSI technology with the most appropriate inter-fusion of theory and practicals with corporate level understanding of the semiconductor industry.",
+        "description3":"+ 12 Years Working Experience"
+
+    },
+    {
+        "id":2,
+        "img":"https://st3.depositphotos.com/12731704/19191/i/450/depositphotos_191919290-stock-photo-business-colleagues-conference-meeting-room.jpg",
+        "title":" Faculty Expertise",
+        "description1":"+ We apply faculty expertise towards creating the best quality, employable, industry-ready semiconductor professionals.",
+        "description2":"+ We continue to be the best skill development center to enhance the employability of new electronic engineering graduates..",
+        "description3":"+ We take pride in the core competent group that we have on board. Our mentors with over a decade of experience in the semiconductor industry, enable us in creating and fine-tuning our training programs in sync with frequently changing industry needs. Having worked extensively in cutting-edge technology nodes and with a passion for contributing to the student community, we certainly envisage making a difference..."
+
+    },
+    {
+        "id":3,
+        "img":"https://www.kgpraigarh.ac.in/images/web_img/workshop1.png",
+        "title":" Workshop & FDP",
+        "description1":"+ We also conduct student workshops and Faculty development programs..",
+        "description2":"+ We have successfully conducted various Student Workshops and delivered Tech Talks at RNS Institute of Technology Bengaluru, JSS Academy of Technical Education Bengaluru, Sri Siddhartha Institute of Technology Tumkur, SK SVMACET Lakshmeshwar, SDM Institute of Technology Ujire Mangalore, KLE College of Engineering and Technology Chikkodi.",
+        "description3":"+ We have mentored hundreds of students for Masters, PhD in VLSI. We have several IEEE paper publications to our credit as a part of Internship Program"
+
+    }
+]
